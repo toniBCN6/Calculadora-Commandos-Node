@@ -1,6 +1,6 @@
 # Notas:
 
-Este es mi primer programa en node
+Calculadora por comandos de consola hecha con Node
 
 ```
 Opciones:
